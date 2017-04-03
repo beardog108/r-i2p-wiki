@@ -45,7 +45,9 @@ If one's communications must stay secret forever, then they should worry about f
  
 ## Legal Considerations
  
-As stated earlier, internet providers can see that a user is using I2P, which may be problematic if a user is in a location where encryption or online anonymity would draw suspicion. Remember, no encryption can protect against [a $5 wrench](https://xkcd.com/538/)
+As stated earlier, internet providers can see that a user is using I2P, when they use it, how much traffic they are passing through their router, and what 1st hops they are connected to, which may be problematic if a user is in a location where encryption or online anonymity would draw suspicion. 
+
+Remember, no encryption can protect against [a $5 wrench](https://xkcd.com/538/)
 
 
 ====
